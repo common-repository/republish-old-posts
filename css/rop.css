@@ -1,0 +1,143 @@
+#rop .options {
+	overflow: hidden;
+	border: none;
+}
+
+#rop .option {
+	overflow: hidden;
+	padding-bottom: 5px;
+	padding-top: 5px;
+}
+
+#rop .option select {
+	width: 200px;
+}	
+
+#rop .option input {
+	width: 200px;
+}	
+
+#rop .option label {
+	display: block;
+	float: left;
+	width: 215px;
+	margin-right: 10px;
+}
+
+
+#rop p.submit {
+	overflow: hidden;
+}
+
+.postbox .hndle {
+    border-top-left-radius: 3px;
+    border-top-right-radius: 3px;
+    margin-bottom: 20px;
+}
+
+h3 {
+    font-size: 15px;
+    font-weight: normal;
+    padding-top: 7px;
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-top: 0px;
+    margin-right: 0px;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    line-height: 1;
+}
+
+#rop-sb {
+    width: 300px;
+    float: left;
+}
+
+.left {
+    display: block;
+    float: left;
+}
+
+#rop-items {
+    width: 435px;
+	margin-right: 15px;
+    float: left;
+	padding-left: 10px;
+	padding-top: 5px;
+}
+
+#rop-items ul {
+    clear: both;
+    display: block;
+}
+
+#rop-items li {
+    width: 375px;
+    display: block;
+    float: left;
+    margin: 0px;
+	padding-top: 5px;
+    padding-left: 30px;
+}
+
+#rop-items textarea {
+    width: 200px;
+    min-height: 115px;
+    margin-right: 5px;
+    resize: vertical;
+}
+
+.side-label {
+    display: inline-block;
+    width: 80px;
+}
+
+.side-label-long {
+    display: inline-block;
+}
+
+.checkbox {
+	position: relative;
+    display: inline-block;
+    top: 2px;
+    left: 1px;
+}
+
+.textbox {
+    width: 200px;
+    display: inline-block;
+}
+
+.textbox-sidebar {
+    width: 270px;
+    display: inline-block;
+}
+
+#rop-items select {
+    width: 200px;
+}
+
+.findh {
+    display: inline-block;
+    float: left;
+    padding: 0px;
+    font-size: 12pt;
+    font-weight: bold;
+    padding-top: 10px;
+    padding: 20px 0 0 30px;
+}
+
+.replaceh {
+    display: inline-block;
+    float: left;
+    padding: 0px;
+    font-size: 12pt;
+    font-weight: bold;
+    padding-top: 10px;
+    padding: 20px 0 0 200px;
+}
+
+.clearpad { 
+	clear: both;
+	padding: 10px;
+}
